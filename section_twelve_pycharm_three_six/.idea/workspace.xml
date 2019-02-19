@@ -14,10 +14,11 @@
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six$composition.coverage" NAME="composition Coverage Results" MODIFIED="1550265508965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six$multiple_inheritance.coverage" NAME="multiple-inheritance Coverage Results" MODIFIED="1550265148404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six$intro_exceptions.coverage" NAME="intro-exceptions Coverage Results" MODIFIED="1550604563397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptions" />
+    <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six$create_exceptions.coverage" NAME="create-exceptions Coverage Results" MODIFIED="1550606614431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptions" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exceptions/intro-exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
@@ -25,6 +26,15 @@
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exceptions/create-exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -50,6 +60,7 @@
         <option value="$PROJECT_DIR$/oop/inheritance-intro.py" />
         <option value="$PROJECT_DIR$/oop/encapsulation.py" />
         <option value="$PROJECT_DIR$/exceptions/intro-exceptions.py" />
+        <option value="$PROJECT_DIR$/exceptions/create-exceptions.py" />
       </list>
     </option>
   </component>
@@ -105,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.intro-exceptions">
+  <component name="RunManager" selected="Python.create-exceptions">
     <configuration name="composition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="section_twelve_pycharm_three_six" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +131,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/composition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create-exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="section_twelve_pycharm_three_six" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptions/create-exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,9 +229,11 @@
       <item itemvalue="Python.multiple-inheritance" />
       <item itemvalue="Python.composition" />
       <item itemvalue="Python.intro-exceptions" />
+      <item itemvalue="Python.create-exceptions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create-exceptions" />
         <item itemvalue="Python.intro-exceptions" />
         <item itemvalue="Python.composition" />
         <item itemvalue="Python.multiple-inheritance" />
@@ -215,12 +250,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550262594045</updated>
-      <workItem from="1550262622754" duration="7059000" />
+      <workItem from="1550262622754" duration="8183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7059000" />
+    <option name="totallyTimeSpent" value="8183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -301,6 +336,13 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions/create-exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
