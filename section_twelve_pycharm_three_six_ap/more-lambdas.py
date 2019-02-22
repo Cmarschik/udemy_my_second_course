@@ -1,5 +1,5 @@
 class Currency:
-    def __init__(self,code, exchange_to_usd):
+    def __init__(self, code, exchange_to_usd):
         self.amount = 0.00
         self.code = code
         self.exchange_to_use = exchange_to_usd
