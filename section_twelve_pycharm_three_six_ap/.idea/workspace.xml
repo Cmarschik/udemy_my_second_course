@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621def98-4a9b-428d-9026-c97573ecf0c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built-in-methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/built-in-methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more-lambdas.py" beforeDir="false" afterPath="$PROJECT_DIR$/more-lambdas.py" afterDir="false" />
-    </list>
+    <list default="true" id="621def98-4a9b-428d-9026-c97573ecf0c9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1364" />
@@ -212,7 +208,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550608790370</updated>
       <workItem from="1550608793379" duration="6835000" />
-      <workItem from="1550780870520" duration="5686000" />
+      <workItem from="1550780870520" duration="5992000" />
     </task>
     <servers />
   </component>
@@ -249,7 +245,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12521000" />
+    <option name="totallyTimeSpent" value="12827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
