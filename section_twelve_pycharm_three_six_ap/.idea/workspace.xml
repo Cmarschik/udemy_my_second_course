@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621def98-4a9b-428d-9026-c97573ecf0c9" name="Default Changelist" comment="" />
+    <list default="true" id="621def98-4a9b-428d-9026-c97573ecf0c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,8 +12,8 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$built_in_methods.coverage" NAME="built-in-methods Coverage Results" MODIFIED="1550611125313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$Unittests_for_testing_CurrencyTest.coverage" NAME="Unittests for testing.CurrencyTest Coverage Results" MODIFIED="1550799786120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$delete.coverage" NAME="delete Coverage Results" MODIFIED="1550800019491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$Unittests_for_testing_CurrencyTest.coverage" NAME="Unittests for testing.CurrencyTest Coverage Results" MODIFIED="1550804922763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$Unittests_for_testing_CurrencyTest_test_compare_currency_equal_value.coverage" NAME="Unittests for testing.CurrencyTest.test_compare_currency_equal_value Coverage Results" MODIFIED="1550798942449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$lambdas.coverage" NAME="lambdas Coverage Results" MODIFIED="1550780986895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$Unittests_for_testing_CurrencyTest_test_compare_currency.coverage" NAME="Unittests for testing.CurrencyTest.test_compare_currency Coverage Results" MODIFIED="1550798797439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -23,17 +25,7 @@
     <SUITE FILE_PATH="coverage/section_twelve_pycharm_three_six_ap$Unittests_for_testing_CurrencyTest_test_to_usd.coverage" NAME="Unittests for testing.CurrencyTest.test_to_usd Coverage Results" MODIFIED="1550799235828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1184">
-              <caret line="91" column="45" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1364" />
@@ -72,17 +64,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="section_twelve_pycharm_three_six_ap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="section_twelve_pycharm_three_six_ap" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -104,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.delete">
+  <component name="RunManager" selected="Python tests.Unittests for testing.CurrencyTest">
     <configuration name="delete" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="section_twelve_pycharm_three_six_ap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,8 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.delete" />
         <item itemvalue="Python tests.Unittests for testing.CurrencyTest" />
+        <item itemvalue="Python.delete" />
         <item itemvalue="Python tests.Unittests for testing.CurrencyTest.test_comparison_with_exceptions" />
         <item itemvalue="Python tests.Unittests for testing.CurrencyTest.test_in_currency" />
         <item itemvalue="Python tests.Unittests for testing.CurrencyTest.test_to_usd" />
@@ -208,14 +190,11 @@
       <option name="presentableId" value="Default" />
       <updated>1550608790370</updated>
       <workItem from="1550608793379" duration="6835000" />
-      <workItem from="1550780870520" duration="5992000" />
+      <workItem from="1550780870520" duration="7710000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_testing_CurrencyTest_test_in_currency - 2019.02.21 at 18h 33m 16s.xml">
-      <configuration name="Unittests for testing.CurrencyTest.test_in_currency" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_testing_CurrencyTest_test_to_usd - 2019.02.21 at 18h 33m 56s.xml">
       <configuration name="Unittests for testing.CurrencyTest.test_to_usd" configurationId="tests" />
     </history-entry>
@@ -243,9 +222,12 @@
     <history-entry file="Unittests_for_testing_CurrencyTest - 2019.02.21 at 18h 43m 06s.xml">
       <configuration name="Unittests for testing.CurrencyTest" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_testing_CurrencyTest - 2019.02.21 at 20h 08m 43s.xml">
+      <configuration name="Unittests for testing.CurrencyTest" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12827000" />
+    <option name="totallyTimeSpent" value="14545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -255,7 +237,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6800303" visible="true" weight="0.31914893" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6800303" weight="0.31914893" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -263,7 +245,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.31996974" side_tool="true" weight="0.31914893" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.31996974" side_tool="true" visible="true" weight="0.31914893" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -301,13 +283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/more-lambdas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/built-in-methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-238">
@@ -325,10 +300,17 @@
     <entry file="file://$PROJECT_DIR$/pip-selfcheck.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/more-lambdas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1184">
-          <caret line="91" column="45" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
+        <state relative-caret-position="102">
+          <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
         </state>
       </provider>
     </entry>
