@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b28c6a8-c8ec-443a-adbb-230fc3b92bbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../section-10-twitter-login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section-10-twitter-login/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section-10-twitter-login/project/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../section-10-twitter-login/project/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="4b28c6a8-c8ec-443a-adbb-230fc3b92bbe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="663" />
     <option name="width" value="586" />
     <option name="height" value="728" />
@@ -257,7 +254,7 @@
     <option name="totallyTimeSpent" value="3938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
