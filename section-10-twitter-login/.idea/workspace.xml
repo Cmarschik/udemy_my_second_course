@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b2640db-336d-482e-bf62-548bfac765fe" name="Default Changelist" comment="" />
+    <list default="true" id="6b2640db-336d-482e-bf62-548bfac765fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/project/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section_thirteen_pycharm_three_six/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section_thirteen_pycharm_three_six/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +12,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/section_10_twitter_login$app.coverage" NAME="app Coverage Results" MODIFIED="1550259137860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/section_10_twitter_login$app.coverage" NAME="app Coverage Results" MODIFIED="1550954640005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-814">
+              <caret line="1" column="80" lean-forward="true" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -20,10 +33,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project/app.py" />
         <option value="$PROJECT_DIR$/project/constants.py" />
         <option value="$PROJECT_DIR$/project/static/css/style.css" />
         <option value="$PROJECT_DIR$/project/requirements.txt" />
+        <option value="$PROJECT_DIR$/project/app.py" />
       </list>
     </option>
   </component>
@@ -39,7 +52,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="section-10-twitter-login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section-10-twitter-login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="section-10-twitter-login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="section-10-twitter-login" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,16 +152,18 @@
       <workItem from="1550027355130" duration="985000" />
       <workItem from="1550028460766" duration="106000" />
       <workItem from="1550169402181" duration="1974000" />
+      <workItem from="1550954330455" duration="1144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3065000" />
+    <option name="totallyTimeSpent" value="4209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1172466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11875945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -208,9 +238,6 @@
         <state relative-caret-position="-242" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/constants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -245,13 +272,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/project/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-814">
+          <caret line="1" column="80" lean-forward="true" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
         </state>
       </provider>
     </entry>

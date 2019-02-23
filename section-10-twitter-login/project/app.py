@@ -73,4 +73,4 @@ def search():
 
     return render_template('search.html', content=tweet_texts)
 
-app.run(port=4995, debug=True)
+app.run(port=5000, debug=True)
